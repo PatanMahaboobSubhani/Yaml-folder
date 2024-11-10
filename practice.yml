@@ -1,0 +1,26 @@
+#Storing bio data of a person in yml file
+Name: "Patan Mahaboob Subhani"
+PH No: "9000631007"
+EMAIL: "patanmahaboobsubhani217@gmail.com"
+Date-Of-Birth: "17-01-2002"
+Address: "Palnadu, Andhra Pradesh"
+Education: "B.Tech"
+...
+#Education details
+Course: "B.Tech"
+Branch: "Information Technology"
+College: "Narasaraopeta Engineering College"
+Year: "2021-2024"
+CGPA: "7.2"
+
+Course: "Diploma/Polytechnic"
+Branch: "Electrical and Electronics Engineering"
+College: "Chundi Ranganayakula Polytechnic College"
+Year: "2017-2020"
+Percentage: "72.58"
+
+Course: "SSC"
+School: "Siddhartha High School"
+Year: "2016-2017"
+CGPA: "8.7"
+...
