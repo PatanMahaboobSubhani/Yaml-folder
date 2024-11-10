@@ -5,7 +5,7 @@ EMAIL: "patanmahaboobsubhani217@gmail.com"
 Date-Of-Birth: "17-01-2002"
 Address: "Palnadu, Andhra Pradesh"
 Education: "B.Tech"
-...
+---
 #Education details
 Course: "B.Tech"
 Branch: "Information Technology"
@@ -23,4 +23,4 @@ Course: "SSC"
 School: "Siddhartha High School"
 Year: "2016-2017"
 CGPA: "8.7"
-...
+---
