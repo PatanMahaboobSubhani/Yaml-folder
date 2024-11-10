@@ -1,0 +1,161 @@
+#Name of some courses and their details
+---
+Graduation Courses:   
+  Under Graduation:
+    -B.Com:
+      - In this course you can get job in commerce industry
+      - You can learn about accounting, finance, etc
+      - You can learn about business management, marketing, etc
+      - You can learn about economics, statistics, etc
+      - You can learn about business law, business ethics, etc
+      - You can learn about business communication, business writing, etc
+      - You can learn about business analysis, business research, etc
+      - You can learn about business planning, business development, etc 
+    -B.Sc:
+      - In this course you can get job in science industry
+      - You can learn about physics, chemistry, etc
+      - You can learn about biology, mathematics, etc
+      - You can learn about computer science, electronics, etc
+      - You can learn about geology, geography, etc
+      - You can learn about statistics, environmental science, etc
+      - You can learn about biotechnology, microbiology, etc
+      - You can learn about biochemistry, genetics, etc
+    -B.A:
+      - In this course you can get job in arts industry
+      - You can learn about history, geography, etc
+      - You can learn about political science, economics, etc
+      - You can learn about sociology, psychology, etc
+      - You can learn about philosophy, literature, etc
+      - You can learn about languages, culture, etc
+      - You can learn about music, dance, etc
+      - You can learn about painting, sculpture, etc
+    -B.Tech:
+      -Computer Science Engineering (Information Technology): 
+        - In this course you can get job in IT industry
+        - You can learn programming languages like C, C++, Java, Python, etc
+        - You can learn web development, app development, etc
+        - You can learn about networking, cyber security, etc
+        - You can learn about database management, cloud computing, etc
+        - You can learn about data structures, algorithms, etc
+        - You can learn about software development life cycle, etc
+        - You can learn about software testing, etc
+      -Electrical and Electronics Engineering:
+        - In this course you can get job in electrical and electronics industry
+        - You can learn about electrical machines, power systems, etc
+        - You can learn about electronics devices, circuits, etc
+        - You can learn about electrical measurements, control systems, etc
+        - You can learn about electrical and electronics materials, etc
+        - You can learn about electrical and electronics workshop, etc
+        - You can learn about electrical and electronics drawing, etc
+        - You can learn about electrical and electronics lab, etc
+      -Electronics and Communication Engineering:
+        - In this course you can get job in electronics and communication industry
+        - You can learn about communication systems, digital electronics, etc
+        - You can learn about analog electronics, microprocessors, etc
+        - You can learn about electronic circuits, signals and systems, etc
+        - You can learn about electromagnetic fields, antennas and wave propagation, etc
+        - You can learn about electronic measurements, electronic workshop, etc
+        - You can learn about electronic drawing, electronic lab, etc
+        - You can learn about electronic devices, etc
+      -Civil Engineering:
+        - In this course you can get job in construction industry
+        - You can learn about building materials, construction technology, etc
+        - You can learn about surveying, transportation engineering, etc
+        - You can learn about environmental engineering, water resources engineering, etc
+        - You can learn about geotechnical engineering, structural engineering, etc
+        - You can learn about construction management, etc
+        - You can learn about construction drawing, construction lab, etc
+        - You can learn about construction workshop, etc
+      -Mechanical Engineering:
+        - In this course you can get job in mechanical industry
+        - You can learn about thermodynamics, fluid mechanics, etc
+        - You can learn about strength of materials, machine design, etc
+        - You can learn about manufacturing technology, industrial engineering, etc
+        - You can learn about heat transfer, refrigeration and air conditioning, etc
+        - You can learn about automobile engineering, etc
+        - You can learn about robotics, mechatronics, etc
+        - You can learn about mechanical workshop, mechanical drawing, etc
+      -Aeronautical Engineering:
+        - In this course you can get job in aviation industry
+        - You can learn about aerodynamics, aircraft structures, etc
+        - You can learn about aircraft propulsion, aircraft systems, etc
+        - You can learn about aircraft materials, aircraft workshop, etc
+        - You can learn about aircraft drawing, aircraft lab, etc
+        - You can learn about aircraft maintenance, etc
+        - You can learn about aircraft design, etc
+        - You can learn about aircraft testing, etc
+      -Chemical Engineering:
+        - In this course you can get job in chemical industry
+        - You can learn about chemical reactions, chemical engineering thermodynamics, etc
+        - You can learn about chemical engineering kinetics, chemical engineering transport phenomena, etc
+        - You can learn about chemical engineering process control, chemical engineering plant design, etc
+        - You can learn about chemical engineering safety, chemical engineering environment, etc
+        - You can learn about chemical engineering drawing, chemical engineering lab, etc
+        - You can learn about chemical engineering workshop, etc
+        - You can learn about chemical engineering project, etc
+  Post Graduation:
+    -M.Com:
+      - In this course you can get job in commerce industry
+      - You can learn about accounting, finance, etc
+      - You can learn about business management, marketing, etc
+      - You can learn about economics, statistics, etc
+      - You can learn about business law, business ethics, etc
+      - You can learn about business communication, business writing, etc
+      - You can learn about business analysis, business research, etc
+      - You can learn about business planning, business development, etc 
+    -M.Sc:
+      - In this course you can get job in science industry
+      - You can learn about physics, chemistry, etc
+      - You can learn about biology, mathematics, etc
+      - You can learn about computer science, electronics, etc
+      - You can learn about geology, geography, etc
+      - You can learn about statistics, environmental science, etc
+      - You can learn about biotechnology, microbiology, etc
+      - You can learn about biochemistry, genetics, etc
+    -M.A:
+      - In this course you can get job in arts industry
+      - You can learn about history, geography, etc
+      - You can learn about political science, economics, etc
+      - You can learn about sociology, psychology, etc
+      - You can learn about philosophy, literature, etc
+      - You can learn about languages, culture, etc
+      - You can learn about music, dance, etc
+      - You can learn about painting, sculpture, etc
+    -M.Tech:
+      -Computer Science Engineering (Information Technology): 
+        - In this course you can get job in IT industry
+        - You can learn programming languages like C, C++, Java, Python, etc
+        - You can learn web development, app development, etc
+        - You can learn about networking, cyber security, etc
+        - You can learn about database management, cloud computing, etc
+        - You can learn about data structures, algorithms, etc
+        - You can learn about software development life cycle, etc
+        - You can learn about software testing, etc
+      -Electrical and Electronics Engineering:
+        - In this course you can get job in electrical and electronics industry
+        - You can learn about electrical machines, power systems, etc
+        - You can learn about electronics devices, circuits, etc
+        - You can learn about electrical measurements, control systems, etc
+        - You can learn about electrical and electronics materials, etc
+        - You can learn about electrical and electronics workshop, etc
+        - You can learn about electrical and electronics drawing, etc
+        - You can learn about electrical and electronics lab, etc
+      -Electronics and Communication Engineering:
+        - In this course you can get job in electronics and communication industry
+        - You can learn about communication systems, digital electronics, etc
+        - You can learn about analog electronics, microprocessors, etc
+        - You can learn about electronic circuits, signals and systems, etc
+        - You can learn about electromagnetic fields, antennas and wave propagation, etc
+        - You can learn about electronic measurements, electronic workshop, etc
+        - You can learn about electronic drawing, electronic lab, etc
+        - You can learn about electronic devices, etc
+      Civil Engineering:
+        - In this course you can get job in construction industry
+        - You can learn about building materials, construction technology, etc
+        - You can learn about surveying, transportation engineering, etc
+        - You can learn about environmental engineering, water resources engineering, etc
+        - You can learn about geotechnical engineering, structural engineering, etc
+        - You can learn about construction management, etc
+        - You can learn about construction drawing, construction lab, etc
+        - You can learn about construction workshop, etc
+---               
